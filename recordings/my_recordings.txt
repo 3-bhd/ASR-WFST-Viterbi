@@ -1,0 +1,48 @@
+1.wav peter piper picked
+2.wav picked a peck
+3.wav piper picked a
+4.wav a peck of
+5.wav peck of pickled
+6.wav of pickled peppers
+7.wav pickled peppers peter
+8.wav peppers peter piper
+9.wav peter picked peppers
+10.wav piper picked peppers
+11.wav peter piper picked a peck
+12.wav piper picked a peck of
+13.wav picked a peck of pickled
+14.wav a peck of pickled peppers
+15.wav peter picked a peck
+16.wav piper picked a peck
+17.wav peter picked pickled peppers
+18.wav piper picked pickled peppers
+19.wav peter piper picked peppers
+20.wav picked peppers peter piper
+21.wav wheres the peck
+22.wav wheres the peck of pickled peppers
+23.wav wheres the peck peter picked
+24.wav wheres the peck of peppers
+25.wav wheres the peck piper picked
+26.wav wheres peter piper
+27.wav wheres the pickled peck
+28.wav wheres the peck of pickled
+29.wav wheres the peppers
+30.wav wheres the peck of peppers peter picked
+31.wav peter piper picked a peck of pickled peppers
+32.wav wheres the peck of pickled peppers peter piper picked
+33.wav peter picked a peck of pickled peppers
+34.wav piper picked peck of pickled peppers
+35.wav peter piper picked pickled peppers
+36.wav peter picked peppers piper picked peppers
+37.wav peter piper picked a peck
+38.wav peter piper picked a peck of peppers
+39.wav peter picked a peck of peppers piper picked a peck of peppers
+40.wav piper picked a peck of peppers
+41.wav peter piper picked a peck
+42.wav peter piper picked a peck
+43.wav peter piper picked a peck of pickled peppers
+44.wav peter picked a peck of pickled peppers
+45.wav wheres the peck of pickled peppers
+46.wav peter piper picked… pickled peppers
+47.wav peter piper picked a peck
+48.wav wheres the peck peter picked
